@@ -72,7 +72,6 @@ function readGuestBook() {
             }
         }
         my_closeDB($conn);
-        // test
 
     }
 }
